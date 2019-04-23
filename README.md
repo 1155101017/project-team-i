@@ -28,8 +28,9 @@ In task5, contributors are required to edit **`csci3250-2019.github.io`** in the
 8. {% include_relative _stu/1155112416.md %}
 9. {% include_relative _stu/1155096748.md %}
 10. {% include_relative _stu/1155105817.md %}
-10. {% include_relative _stu/1155108479.md %}
-12. {% include_relative _stu/1155101017.md %}
+11. {% include_relative _stu/1155108479.md %}
+12. {% include_relative _stu/1155107819.md %}
+13. {% include_relative _stu/1155101017.md %}
 
 # Last Update Time
 {{site.time}}
